@@ -1,0 +1,60 @@
+This game uses these sounds from freesound:
+Lava loop.wav by Audionautics ( https://www.freesound.org/people/Audionautics/ ) Edited to be 10db louder
+water_drip-echo2.wav by roscoetoon ( https://www.freesound.org/people/roscoetoon/ )
+Cave Drips by everythingsounds ( http://freesound.org/people/everythingsounds/ )
+gravel walking.aif by tigersound ( https://www.freesound.org/people/tigersound/ )
+011 Door opens and shuts.wav by FreqMan ( http://freesound.org/people/FreqMan/ ) Rediuced time between opening and closing of door sounds
+cave_footsteps.aif by voltae ( http://freesound.org/people/voltae/ )
+sf3-sfx-menu-back.wav, sf3-sfx-menu-select.wav by broumbroum ( http://www.freesound.org/people/broumbroum/ )
+picked-coin-echo-2 by NenadSimic ( http://freesound.org/people/NenadSimic/ )
+Pickaxe mining stone by ryanconway ( http://freesound.org/people/ryanconway/ ) Sound separated into 3 files.
+chimney fire.wav by reinsamba ( http://freesound.org/people/reinsamba/ )
+wind-and-trees-and-snow.wav by Corsica_S ( https://www.freesound.org/people/Corsica_S/ ) - Converted to ogg.
+rbh-thunder-storm.wav by RHumphries ( https://www.freesound.org/people/RHumphries/ ) - Converted to ogg.
+earthquake.ogg by uagadugu ( http://freesound.org/people/uagadugu/ ) Sound file was trimmed and a fade out was added.
+bow02.wav by Erdie ( https://freesound.org/people/Erdie/ ) - Converted to ogg.
+126464__robinhood76__02658-single-arrows.wav by Robinhood76 ( https://freesound.org/people/Robinhood76/ ) Arrow hit sounds separated into 3 files and converted to ogg.
+PotionDrinkLONG.wav by Jamius ( https://freesound.org/people/Jamius/ ) - Converted to ogg.
+-------------------------------------------------
+
+"Angevin B", "Black Vortex", "Industrial Revolution", "Lord of the Land", "Master of the Feast", "Night Cave", "Pippin the Hunchback Full Mix",
+"Suonatore di Liuto", "Teller of the Tales", "Thatched Villagers", "Drums of the Deep", "Volatile Reaction"
+"Master of the Feast", "Skye Cuillin", "Folk Round", "Minstrel Guild", "The Complex", "Comfortable Mystery" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0
+http://creativecommons.org/licenses/by/3.0/
+The music by Kevin Macleod was converted to be an ogg file.
+-------------------------------------------------
+https://www.flickr.com/photos/spiritual_marketplace/4990252626/
+Image was rotated, cropped, colour changed, downsized, and made seamless.
+
+-- Sounds licensed under the Creative Commons 0 License. Links are for future reference --
+adjustValue.ogg - http://freesound.org/people/LloydEvans09/sounds/185828/
+caveUnderSea.ogg - http://www.freesound.org/people/geyr/sounds/324753/ - sound was amplified by about 8db
+swordWield.ogg from http://freesound.org/people/hello_flowers/sounds/37596/ - file was converted to ogg
+
+-------------------------------------------------
+paper.xcf, paper.png modified from http://opengameart.org/content/decoration-on-old-paper
+book.xcf, book.png modified from http://opengameart.org/content/fantasy-book
+Images in sky folder from http://gimpchat.com/viewtopic.php?f=12&t=1786
+
+------------------------------------------------
+sandOverlay.png modified from "Wall, grass, rock, stone, wood and dirt (480)" by West (http://opengameart.org/content/wall-grass-rock-stone-wood-and-dirt-480) = (sand 1.png)
+tempLadder.png cropped from "Cute Platformer Tiles" by Flatlander (http://opengameart.org/content/cute-platformer-tiles)
+button.jpg from "Markeus B UI buttons" by Ironthunder (http://opengameart.org/content/markeus-b-ui-buttons)
+"Handpainted RPG icons" by LudicArts (http://opengameart.org/content/handpainted-rpg-icons)
+"Onscreen controls (8 styles)" by Kenney (http://opengameart.org/content/onscreen-controls-8-styles)
+Ore and pick images from "Voxel Pack" by Kenney (http://opengameart.org/content/voxel-pack)
+	- Removed the stone background from some ores
+
+tent.png from "OPP Jungle Tiles" by Hapiel (http://opengameart.org/content/opp-jungle-tiles)
+	- Removed grass from image
+
+glass.png resized from "64x Textures an Overlays - CrateOver.png" by FacadeGaikan (http://opengameart.org/node/31081)
+
+Campfire animation from "Camp Fire Animation For RPGs (Finished) by Zabin and Jetrel (http://opengameart.org/content/camp-fire-animation-for-rpgs-finished)
+	-CampFireFinished.png was separated into 5 frames and the images were translated to line up
+
+volcanicStone.png from "Volcano lava floor" by Dakal (http://opengameart.org/content/volcano-lava-floor)
+	- Resized image to be 32x32 and made seamless
+
+arrow.png cropped and modified from "32x32 Fantasy Tileset" by Jerom (http://opengameart.org/content/32x32-fantasy-tileset)
